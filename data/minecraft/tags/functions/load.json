@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "douwepack:load"
+        "douwepack:load",
+        "douwepack:vanish_item/detect"
     ]
 }
