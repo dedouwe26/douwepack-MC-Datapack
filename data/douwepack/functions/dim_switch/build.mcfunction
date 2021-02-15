@@ -15,4 +15,5 @@ setblock ~1 ~-1 ~-1 smooth_sandstone destroy
 setblock ~-1 ~-1 ~-1 smooth_sandstone destroy
 setblock ~ ~-1 ~ emerald_block destroy
 setblock ~ ~ ~ birch_pressure_plate
-setblock ~ ~ ~ command_block{Command:"..."}
+setblock ~ ~-2 ~ command_block{Command:"execute as @p[distance=1..3] at @s in minecraft:the_nether run tp @s ~ ~ ~"}
+execute as @s run schedule function douwepack:dim_switch/build2 4t

@@ -2,6 +2,7 @@
     "replace": false,
     "values": [
         "douwepack:load",
-        "douwepack:vanish_item/detect"
+        "douwepack:vanish_item/detect",
+        "douwepack:dim_switch/loop"
     ]
 }
