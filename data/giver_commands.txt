@@ -1,0 +1,4 @@
+give command:
+give @p carrot_on_a_stick{display:{Name:'{"text":"Giver","color":"#00FFE5","bold":true,"italic":false}'},HideFlags:5,Unbreakable:1b,CustomModelData:112244,giver:1b} 1
+summon command:
+summon item ~ ~0.1 ~ {Tags:["crafted_item"],Item:{id:"minecraft:carrot_on_a_stick",Count:1b,tag:{display:{Name:'{"text":"Giver","color":"#00FFF7","bold":true,"italic":false}'},HideFlags:5,Unbreakable:1b,CustomModelData:112244,giver:1b}}}

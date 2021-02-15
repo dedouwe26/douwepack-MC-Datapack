@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "douwepack:tick",
+        "douwepack:giver/detect",
+        "douwepack:giver/crafting",
+        "douwepack:vanish_item/craft",
+        "douwepack:vanish_item/detect"
+        
+    ]
+}
